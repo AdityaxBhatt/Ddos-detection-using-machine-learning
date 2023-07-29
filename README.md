@@ -1,1 +1,1 @@
-# Ddos-detection-using-machine-learning
+# Ddos detection using machine learning
